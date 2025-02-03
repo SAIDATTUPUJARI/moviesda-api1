@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "https://assetscdn1.paytm.com/images/cinema/WhatsApp%20Image%202025-01-06%20at%2013.39.30-ad954b40-cc05-11ef-912e-2154ccd78c0a.jpeg?format=webp",
+    "title": "game changer",
+    "link": "https://www.youtube.com/watch?v=Zn1Z6Y1z9z4"
+  },
+  {
+    "id": 2,
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTK_Cq35EB_KZmwZ-8M--dRvv-e6WPhQlaNFnoMXKXivM6AihMq",
+    "title": "Pushpa 2",
+    "link": "https://www.youtube.com/watch?v=Zn1Z6Y1z9z4"
+  },
+  {
+    "id": 3,
+    "title": "saidatthu",
+    "img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/thandel-et00384012-1705486794.jpg",
+    "link": "https://in.bookmyshow.com/hyderabad/movies/thandel/ET00384012"
+  },
+  {
+    "id": 4,
+    "title": "Captain America: Brave New World",
+    "img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/captain-america-brave-new-world-et00399765-1737957738.jpg",
+    "link": "https://in.bookmyshow.com/hyderabad/movies/captain-america-brave-new-world/ET00399765"
+  }
+]
