@@ -6,7 +6,10 @@ const movies = require('./data.json');
 const app = express();
 const port = 8000;
 
-app.use(cors({ origin: 'http://127.0.0.1:5500' }));
+
+app.use(cors({
+    origin: '*'  // Allow requests from any origin (you can restrict this if needed)
+}));
 app.use(express.json());
 
 // Fetch movies API
